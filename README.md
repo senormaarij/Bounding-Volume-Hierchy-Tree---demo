@@ -15,7 +15,7 @@ Converts any meshes into much simplified cubes at each layer.
 How to use:
 Run main.py filepath outpath
 
-Next Steps:
+# Next Steps:
 
 Implement this algorithm into a ray tracing simulation to test efficiency
 
